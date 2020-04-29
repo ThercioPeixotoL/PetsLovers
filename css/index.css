@@ -1,0 +1,101 @@
+/* Style.css */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&display=swap');
+
+* { 
+    margin:0; 
+    padding: 0; 
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+header { 
+    background-color: #000; 
+}
+footer {
+     background-color: #333; 
+     color:#999;
+     padding:0px;
+}
+
+nav { min-height: 90px; margin-bottom: 0  !important; }
+
+nav navbar-nav navbar-right {
+    padding: 100000px;
+}
+
+a {
+    border-radius: 10px;
+}
+
+p{
+    text-align: justify;
+}
+
+.thumbnail{
+    min-height: 500px;
+    max-height: auto;
+
+    
+}
+
+#main { 
+    padding: 50px; 
+    background: linear-gradient(135deg, #35b8b0 0%,#1c799d 100%);  
+}
+
+#main img  { 
+    max-height: 400px; 
+}
+
+#middle { 
+    margin: 50px 0; 
+}
+
+#navegar { 
+    margin: 50px 0;
+}
+
+#sobre {
+    margin: 50px 0;  
+}
+
+#sobre p { 
+    text-align: justify; 
+    color:#999; 
+    font-size: 18px; 
+    line-height: 1.8; 
+    padding-top:20px;
+}
+
+
+#faleconosco { 
+    margin: 50px 0;
+}
+
+.lista_footer { 
+    float: right;
+    right: 200px;
+    display: flex;
+}
+
+.lista_footer a {
+    padding-left: 30px;
+}
+.row {
+    text-align: center;
+}
+
+
+.link_menu { 
+    margin-top:50px; 
+}
+.link_menu a{ 
+    color:white !important; 
+    padding:10px;  
+}
+.link_menu a:hover{ 
+    background-color:white!important; 
+    color:#111 !important; 
+}
+.center { text-align: center }

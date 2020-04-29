@@ -1,0 +1,67 @@
+/*tags*/
+p{
+	color:red;
+	font-size:15px;
+	font-family:impact;
+	text-shadow: 1px 1px 1px #111111;
+}
+
+body{
+	background-color:black;
+	}
+
+*{margin: :0;
+  padding:0;
+  font-family:arial;}
+
+
+header{background:black;
+	margin:auto;
+	margin-bottom:0px;
+	  }
+
+h1{color:white;
+	text-align:center;
+	margin:0px 0px 50px 0px;
+	text-shadow: 1px 1px 1px #111111;}
+
+footer { background-color: #222; min-height: 180px; color:#999; padding:40px; }
+
+nav{min-height:90px; margin-bottom:0 !important;}
+legend{color:white;}
+/*class*/
+.container{
+	width:1000px;
+	margin: auto;
+
+}
+.lista_footer { margin-top:35px; }
+.efeito{
+	background-color:rgba(0,0,0,0.5);
+	padding:50px 0 50px 0;
+	}
+.link_menu{margin-top:50px;
+}
+.link_menu a{color:white !important;padding:10px;}
+.link_menu a:hover{background:white !important; color:black !important; }
+.center { text-align: center }
+
+/*id*/
+#div_principal{
+	background-image:url('img fundo.png');
+	clear:both;
+	min-height: 00px;
+	background-size:50%;
+	padding:50px ;
+
+}
+#logo{
+	float:left;
+	
+}
+
+
+
+
+
+
