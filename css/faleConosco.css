@@ -37,6 +37,10 @@ h4{
 	text-shadow: 1px 1px 1px #111111;
 }
 
+a {
+    border-radius: 10px;
+}
+
 footer { 
 	background-color: black; 
 	min-height: 90px; color:white; 
@@ -65,8 +69,9 @@ legend{
 }
 
 .efeito{
-	background-color:#fff;
+	background-color: #fff;
 	padding:50px 0 50px 0;
+	border-radius: 50px;
 }
 
 .link_menu{
