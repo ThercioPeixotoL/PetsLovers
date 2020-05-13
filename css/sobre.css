@@ -89,6 +89,9 @@ legend{color:white;}
 
 .thumbnail{
 	background-color: #f2f2f2;
+	min-height: 570px;
+	max-height: auto;
+	
 }
 
 .img-thumbnail{
