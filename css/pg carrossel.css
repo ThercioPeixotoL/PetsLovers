@@ -55,6 +55,10 @@ h6{
 	text-align: center;
 }
 
+figure{
+	text-align: center;
+}
+
 
 footer { 
 	background-color: black; 
@@ -69,6 +73,7 @@ nav{
 }
 legend{color:white;}
 /*class*/
+
 .container{
 	width:1000px;
 	margin: auto;
@@ -104,10 +109,4 @@ legend{color:white;}
 	padding:50px ;
 
 }
-#direita{
-	float: right;
-}
 
-#esquerda{
-	float: left;
-}
